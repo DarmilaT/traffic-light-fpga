@@ -5,6 +5,7 @@ This repository contains a traffic light controller implementation using an FPGA
 ## Project Description
 
 The project involves designing a traffic light controller with the following functionalities:
+
 - A highway with a pedestrian crossing and a road leading to a hospital.
 - Vehicles from the hospital road have higher priority and trigger the traffic light to turn yellow and then red to stop highway traffic.
 - Pedestrians waiting for more than 20 seconds trigger the traffic light to turn red, allowing them to cross the road.
@@ -17,6 +18,7 @@ There is a pedestrian crossing on the highway and a road to the hospital through
 ## Project Details
 
 ### Hardware and Software Requirements
+
 - FPGA Board
 - Quartus Prime Lite Edition Software
 - ModelSim for simulation
@@ -28,11 +30,12 @@ There is a pedestrian crossing on the highway and a road to the hospital through
 Here are some images of the simulation results demonstrating the traffic light sequences:
 
 ![ModelSim Output](images/modelsim-output.png)
-*ModelSim Output*
+_ModelSim Output_
 
 ### FPGA Board Video Output
 
 Here are some images of the FPGA board video output demonstrating the traffic light sequences:
 
-![FPGA Board Output](images/fpga-output.png)
-*FPGA Board Output*
+[![Watch the video](images/fpga-output.png)](https://drive.google.com/file/d/1E9Y3G_N4uUZiMPZIQ8ABneQL48S5nzhh/view?usp=drive_link)
+
+_FPGA Board Output_
