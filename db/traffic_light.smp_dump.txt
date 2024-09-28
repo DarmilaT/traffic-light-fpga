@@ -1,0 +1,7 @@
+
+State Machine - |traffic_light|state
+Name state.HRED_FYEL state.HRED_FGRE state.HYEL_FRED state.00 
+state.00 0 0 0 0 
+state.HYEL_FRED 0 0 1 1 
+state.HRED_FGRE 0 1 0 1 
+state.HRED_FYEL 1 0 0 1 

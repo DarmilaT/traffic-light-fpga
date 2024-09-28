@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/darmi/Desktop/trafficLight/simulation/modelsim
+vtb_traffic
+!s110 1684157615
+!i10b 1
+!s100 D2k_I4N3n?gjX2e92IfBa1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I6o`5^K=YRlT[icg2YX9Oa0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1684157493
+8C:/Users/darmi/Desktop/trafficLight/tb_traffic.v
+FC:/Users/darmi/Desktop/trafficLight/tb_traffic.v
+!i122 1
+L0 8 90
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1684157615.000000
+!s107 C:/Users/darmi/Desktop/trafficLight/tb_traffic.v|
+!s90 -reportprogress|300|-work|work|C:/Users/darmi/Desktop/trafficLight/tb_traffic.v|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+vtraffic_light
+!s110 1684157599
+!i10b 1
+!s100 3e^2QBa7Ezgoa4Y8I]Cah0
+R1
+I<dmXaDhdKP^dMU82gPRfE1
+R2
+R0
+w1684157454
+8C:/Users/darmi/Desktop/trafficLight/traffic_light.v
+FC:/Users/darmi/Desktop/trafficLight/traffic_light.v
+!i122 0
+L0 3 116
+R3
+r1
+!s85 0
+31
+!s108 1684157599.000000
+!s107 C:/Users/darmi/Desktop/trafficLight/traffic_light.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/darmi/Desktop/trafficLight|C:/Users/darmi/Desktop/trafficLight/traffic_light.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+C:/Users/darmi/Desktop/trafficLight
+R4
